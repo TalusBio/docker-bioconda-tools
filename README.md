@@ -12,6 +12,7 @@ version control of:
 It also details minimum versions for common data science and utility packages:
 
 - [spectrum_utils](https://spectrum-utils.readthedocs.io)
+- [pyteomics](https://pyteomics.readthedocs.io)
 - [NumPy](https://numpy.org)
 - [Pandas](pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
