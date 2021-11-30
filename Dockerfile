@@ -5,6 +5,5 @@ RUN  apt-get update && \
      apt-get install procps -y && \
      apt-get clean
 
-USER micromamba
 RUN micromamba install -y -n base -f /tmp/env.yaml && \
     micromamba clean --all --yes
